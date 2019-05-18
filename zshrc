@@ -110,5 +110,6 @@ export ALIEN_SECTIONS_LEFT=(
   newline
   prompt
 )
+export USE_NERD_FONT=1
 export ALIEN_THEME="soft"
 source $ZSH/custom/themes/alien/alien.zsh
