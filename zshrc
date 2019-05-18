@@ -64,6 +64,7 @@ export ZSH="/home/imarnas/.oh-my-zsh"
 plugins=(
   git
   zsh-syntax-highlighting
+  composer
 )
 
 source $ZSH/oh-my-zsh.sh
