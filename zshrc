@@ -113,5 +113,5 @@ export ALIEN_SECTIONS_LEFT=(
 export ALIEN_GIT_SYM="\uf1d3"
 export ALIEN_BRANCH_SYM="\ue725"
 export USE_NERD_FONT=1
-export ALIEN_THEME="soft"
+export ALIEN_THEME="red"
 source $ZSH/custom/themes/alien/alien.zsh
