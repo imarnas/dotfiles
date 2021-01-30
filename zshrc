@@ -64,7 +64,6 @@ export ZSH="/home/imarnas/.oh-my-zsh"
 plugins=(
   git
   zsh-syntax-highlighting
-  composer
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -97,7 +96,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias mux="tmuxinator"
+
+#alias mux="tmuxinator"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
