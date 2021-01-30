@@ -12,7 +12,6 @@ Plug 'colepeters/spacemacs-theme.vim'
 
 call plug#end()
 
-set number
 set ruler
 
 set tabstop=4
