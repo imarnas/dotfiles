@@ -1,6 +1,5 @@
 [user]                                                                                                                                                                                                           
     email = email                                                                                                                                                                                   
-    name = name                                                                                                                                                                                           
 [core]                                                                                                                                                                                                           
     excludesfile = ~/.gitexclude                                                                                                                                                                             
     editor = vim                                                                                                                                                                                                 
@@ -11,5 +10,3 @@
     branch = auto 
 [push]
     default = current
-[pull]
-    rebase = false
